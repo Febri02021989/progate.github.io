@@ -1,0 +1,123 @@
+header {
+  height: 65px;
+  width: 100%;
+  background-color: rgba(255, 255, 0, 0.7);
+}
+
+li {
+  list-style: none
+}
+
+.logo {
+  height: 65px;
+  float: left;
+}
+
+.logo2 {
+  height: 65px;
+  float: left;
+}
+
+.header-list li {
+  float: right;
+  padding: 5px 33px;
+}
+
+.main {
+  background-image: url(./background-image5.jpg);
+  background-size: cover;
+  height: 500px;
+}
+
+.btn-wrapper {
+  margin: 20px 0;
+  background-color: #DCDCDC;
+  text-align: center;
+  opacity: 0.8;
+}
+
+.btn-wrapper p {
+  margin: 10px 0;
+}
+
+.signup {
+  background-color: #239b76;
+}
+
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.twitter {
+  background-color: #55acee;
+}
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  border-radius: 4px;
+  opacity: 1;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.fa {
+  margin-right: 5px;
+}
+
+.heading {
+  text-align: center;
+  color: white;
+}
+
+.heading h1 {
+  text-align: center;
+}
+
+.article-heading {
+  color: black;
+  text-align: center;
+}
+
+.article-list li {
+  color: black;
+  height: 80px;
+  line-height: 100px;
+  margin-right: 20px;
+  text-align: center;
+}
+.li1 {
+  background-color: #ffc562;
+}
+.li2 {
+  background-color: #a0c3f7;
+}
+.li3 {
+  background-color: #ff8db3;
+}
+.li4 {
+  background-color: #88e7ce;
+}
+
+.article-list {
+  display: flex;
+}
+.article-list li {
+  flex: auto;
+}
+
+footer {
+  background-color: rgba(255, 255, 0, 0.7);
+  height: 115px;
+}
+
+.footer-logo {
+  padding-bottom: auto;
+}
+.footer-list {
+  float: right;
+}
