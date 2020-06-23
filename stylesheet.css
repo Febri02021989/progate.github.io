@@ -18,9 +18,6 @@ li {
   float: left;
 }
 
-.header-right {
-  display: none;
-}
 
 .header-list li {
   float: right;
